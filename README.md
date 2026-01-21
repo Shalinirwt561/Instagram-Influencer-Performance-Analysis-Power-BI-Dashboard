@@ -1,6 +1,7 @@
 # Instagram-Influencer-Performance-Analysis-Power-BI-Dashboard
 
 📌 Project Overview
+
 This project features an interactive Power BI dashboard built to analyze Instagram influencer performance. It focuses on key metrics such as followers, engagement, reach, likes, comments, and overall influence score to understand what drives influencer success and audience engagement.
 The goal of this project is to help brands and marketers make data-driven decisions when selecting influencers and planning social media campaigns.
 
